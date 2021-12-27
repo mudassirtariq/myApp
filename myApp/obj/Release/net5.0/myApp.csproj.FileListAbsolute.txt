@@ -1,0 +1,16 @@
+D:\Projects\testprojects\myApp\myApp\bin\Release\net5.0\myApp.exe
+D:\Projects\testprojects\myApp\myApp\bin\Release\net5.0\myApp.deps.json
+D:\Projects\testprojects\myApp\myApp\bin\Release\net5.0\myApp.runtimeconfig.json
+D:\Projects\testprojects\myApp\myApp\bin\Release\net5.0\myApp.runtimeconfig.dev.json
+D:\Projects\testprojects\myApp\myApp\bin\Release\net5.0\myApp.dll
+D:\Projects\testprojects\myApp\myApp\bin\Release\net5.0\ref\myApp.dll
+D:\Projects\testprojects\myApp\myApp\bin\Release\net5.0\myApp.pdb
+D:\Projects\testprojects\myApp\myApp\obj\Release\net5.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\testprojects\myApp\myApp\obj\Release\net5.0\myApp.AssemblyInfoInputs.cache
+D:\Projects\testprojects\myApp\myApp\obj\Release\net5.0\myApp.AssemblyInfo.cs
+D:\Projects\testprojects\myApp\myApp\obj\Release\net5.0\myApp.csproj.CoreCompileInputs.cache
+D:\Projects\testprojects\myApp\myApp\obj\Release\net5.0\myApp.dll
+D:\Projects\testprojects\myApp\myApp\obj\Release\net5.0\ref\myApp.dll
+D:\Projects\testprojects\myApp\myApp\obj\Release\net5.0\myApp.pdb
+D:\Projects\testprojects\myApp\myApp\obj\Release\net5.0\myApp.genruntimeconfig.cache
+D:\Projects\testprojects\myApp\myApp\obj\Release\net5.0\myApp.csproj.AssemblyReference.cache
